@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">POC-IBMB</string>
+
+    <!-- Home Fragment -->
+    <string name="home_fragment">Home Fragment</string>
+    <string name="login">Login</string>
+    <string name="home">Home</string>
+
+    <!-- Login Fragment -->
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm">Confirm</string>
+
+    <!-- Welcome Fragment -->
+    <string name="successfully_logged_in">Successfully logged in</string>
+    <string name="ok">OK</string>
+
+</resources>
